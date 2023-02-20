@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IlhanBuhic
+- 👋 Hi, I’m @ilhanbuhic
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me ilhanbuhic@hotmail.com
