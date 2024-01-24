@@ -9,6 +9,7 @@
 - ⚡ In my free time I like to develop my programming skills, hiking and read tech articles.
 - 📫 How to reach me: &nbsp; <a>https://www.linkedin.com/in/ilhan-buhic-b547372aa/</a>
 
+---
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
