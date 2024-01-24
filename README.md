@@ -3,7 +3,7 @@
 
 <!-- ### :man_technologist: &nbsp;About Me : -->
 
-👋  I'm @ilhanbuhic, Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Serbia.
+👋 I'm @ilhanbuhic, Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Serbia.
 
 - 🔭 I’m Software Engineer and contributing to frontend and backend for building web applications.
 - ⚡ In my free time I like to develop my programming skills, hiking and read tech articles.
