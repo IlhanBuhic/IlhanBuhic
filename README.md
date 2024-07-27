@@ -7,7 +7,7 @@
 
 - 🔭 I’m Software Engineer and contributing to frontend and backend for building web applications.
 - ⚡ In my free time I like to develop my programming skills, hiking and read tech articles.
-- 📫 How to reach me: &nbsp; <a>https://www.linkedin.com/in/ilhan-buhic-b547372aa/</a>
+- 📫 How to reach me: &nbsp; <a>https://www.linkedin.com/in/ilhanbuhic/</a>
 
 ---
 ### 🛠 &nbsp;Languages and Tools :
